@@ -25,3 +25,9 @@ dist-ssr
 
 
 package-lock.json
+
+# Environments
+.env
+.env.local
+.env.[mode]
+.env.[mode].local
